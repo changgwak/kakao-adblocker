@@ -15,7 +15,7 @@ A simple batch script to block advertisements on KakaoTalk by modifying the Wind
 ### **Step 1: Download the Script**
 1. Click on the **Code** button and select **Download ZIP**, or clone the repository using:
    ```sh
-   git clone https://github.com/changgwak/kakaotalk-ads-blocker.git
+   git clone https://github.com/changgwak/kakao-adblocker.git
    ```
 2. Extract the ZIP file (if downloaded).
 
@@ -31,12 +31,12 @@ A simple batch script to block advertisements on KakaoTalk by modifying the Wind
      ```
    - Run the script:
      ```sh
-     block_kakao_ads.bat
+     kakao_ad_block.bat
      ```
    - If prompted, confirm execution.
 
 #### **Method 2: Using a Mouse (Windows GUI)**
-1. **Locate the `block_kakao_ads.bat` file** in the extracted folder.
+1. **Locate the `kakao_ad_block.bat` file** in the extracted folder.
 2. **Right-click** on the file.
 3. Select **"Run as administrator"** from the context menu.
 4. If prompted by User Account Control (UAC), click **"Yes"** to allow execution.
